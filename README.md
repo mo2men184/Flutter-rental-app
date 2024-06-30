@@ -1,6 +1,6 @@
-# Apart - 🏠 Renting App UI
+# 🏠 Rental App UI
 
-Welcome to **Apart**, a sleek and modern Flutter UI project for a renting app. This project features well-structured components, clear data models, and reusable widgets. It's UI-only, making it perfect for easy reskinning and future logic integration.
+A sleek and modern Flutter UI project for a renting app. This project features well-structured components, clear data models, and reusable widgets. It's UI-only, making it perfect for easy reskinning and future logic integration.
 
 ## 🌟 Features
 
